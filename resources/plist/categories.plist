@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>campus</key>
+	<string>Campus</string>
+	<key>city-state</key>
+	<string>City/State</string>
+	<key>columns</key>
+	<string>Columns</string>
+	<key>editorials</key>
+	<string>Editorial</string>
+	<key>film</key>
+	<string>Film</string>
+	<key>music</key>
+	<string>Music</string>
+	<key>theater</key>
+	<string>Theater</string>
+	<key>sports</key>
+	<string>Sports</string>
+	<key>fashion</key>
+	<string>Fashion</string>
+</dict>
+</plist>

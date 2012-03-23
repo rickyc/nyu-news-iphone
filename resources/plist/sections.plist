@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string>Campus Cash Locator</string>
+		<key>image</key>
+		<string>cash.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>About WSN</string>
+		<key>image</key>
+		<string>about.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Contact Information</string>
+		<key>image</key>
+		<string>contact.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Work for WSN</string>
+		<key>image</key>
+		<string>work.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Advertising</string>
+		<key>image</key>
+		<string>advertise.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Location</string>
+		<key>image</key>
+		<string>location.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Campus Map</string>
+		<key>image</key>
+		<string>maps.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Search</string>
+		<key>image</key>
+		<string>search.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>WSN Mobile</string>
+		<key>image</key>
+		<string>mobile.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>WSN Twitter</string>
+		<key>image</key>
+		<string>wsn_twitter.png</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Bugs &amp; Comments</string>
+		<key>image</key>
+		<string>bug.png</string>
+	</dict>
+</array>
+</plist>

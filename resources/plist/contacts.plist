@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Editorial</string>
+		<key>members</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Editor-in-chief</string>
+				<key>name</key>
+				<string>Eric Platt</string>
+				<key>email</key>
+				<string>editor@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4302</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Managing Editor - Print</string>
+				<key>name</key>
+				<string>Sara Gates</string>
+				<key>email</key>
+				<string>sgates@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4158</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Managing Editor - Online</string>
+				<key>name</key>
+				<string>Richa Naik </string>
+				<key>email</key>
+				<string>rnaik@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4158</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Assistant Managing Editor</string>
+				<key>name</key>
+				<string>Randy Kreider</string>
+				<key>email</key>
+				<string>rkreider@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4158</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Deputy Managing Editor - Arts</string>
+				<key>name</key>
+				<string>Matt Margini</string>
+				<key>email</key>
+				<string>mmargini@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4158</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Creative Director</string>
+				<key>name</key>
+				<string>Sara Nguyen</string>
+				<key>email</key>
+				<string>snguyen@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4158</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Director of Technology</string>
+				<key>name</key>
+				<string>Michael Strickland</string>
+				<key>email</key>
+				<string>mstrickland@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4158</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Business</string>
+		<key>members</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Business Manager</string>
+				<key>name</key>
+				<string>Julia McCarthy</string>
+				<key>email</key>
+				<string>jmccarthy@nyunews.com</string>
+				<key>telephone</key>
+				<string>212-998-4300</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Director of Operations</string>
+				<key>name</key>
+				<string>David Cosgrove</string>
+				<key>email</key>
+				<string>cosgrove@nyu.edu</string>
+				<key>telephone</key>
+				<string>212-998-4300</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

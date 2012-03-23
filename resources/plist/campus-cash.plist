@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Copy/Printing</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.copy</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>Unique Copy Center</string>
+				<key>address</key>
+				<string>252 Greene Street</string>
+				<key>phone</key>
+				<string>212-420-9198</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730516</string>
+				<key>longitude</key>
+				<string>-73.994531</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Dining</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.dining</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>99 Miles to Philly</string>
+				<key>image_url</key>
+				<string>http://www.nyu.edu/nyucard/campus.cash/images/logos/vendor/1162221572.jpg</string>
+				<key>address</key>
+				<string>94 Third Avenue</string>
+				<key>phone</key>
+				<string>212-253-2700</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732234</string>
+				<key>longitude</key>
+				<string>-73.988113</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Acme Bar &amp; Grill</string>
+				<key>image_url</key>
+				<string>http://www.nyu.edu/nyucard/campus.cash/images/logos/vendor/sm.acme.jpg</string>
+				<key>address</key>
+				<string>9 Great Jones Street</string>
+				<key>phone</key>
+				<string>212-420-1934</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727221</string>
+				<key>longitude</key>
+				<string>-73.994069</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Adriana Pizza</string>
+				<key>image_url</key>
+				<string>http://www.nyu.edu/nyucard/campus.cash/images/logos/vendor/1260478285.jpg</string>
+				<key>address</key>
+				<string>253 Third Avenue</string>
+				<key>phone</key>
+				<string>212-674-6070</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.737157</string>
+				<key>longitude</key>
+				<string>-73.984005</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Apple Restaurant</string>
+				<key>image_url</key>
+				<string>http://www.nyu.edu/nyucard/campus.cash/images/logos/category/campuscash.dining.jpg</string>
+				<key>address</key>
+				<string>17 Waverly Place</string>
+				<key>phone</key>
+				<string>212-473-8888</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730257</string>
+				<key>longitude</key>
+				<string>-73.994583</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Atomic Wings @ Down the Hatch</string>
+				<key>address</key>
+				<string>179 West Fourth Street</string>
+				<key>phone</key>
+				<string>212-627-9747</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732481</string>
+				<key>longitude</key>
+				<string>-74.001621</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Au Bon Pain</string>
+				<key>address</key>
+				<string>58 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-388-9708</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730963</string>
+				<key>longitude</key>
+				<string>-73.993301</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Au Bon Pain</string>
+				<key>address</key>
+				<string>684 Broadway</string>
+				<key>phone</key>
+				<string>212-420-1694</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727853</string>
+				<key>longitude</key>
+				<string>-73.99441</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Au Bon Pain</string>
+				<key>address</key>
+				<string>6 Union Square East</string>
+				<key>phone</key>
+				<string>212-475-0453</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.735965</string>
+				<key>longitude</key>
+				<string>-73.98935</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>BAO Noodles</string>
+				<key>address</key>
+				<string>391 Second Avenue</string>
+				<key>phone</key>
+				<string>212-725-7770</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.737632</string>
+				<key>longitude</key>
+				<string>-73.981294</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Bagel on Third</string>
+				<key>address</key>
+				<string>297 Third Avenue</string>
+				<key>phone</key>
+				<string>212-686-1414</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.738636</string>
+				<key>longitude</key>
+				<string>-73.982965</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Ben &amp; Jerry&apos;s</string>
+				<key>address</key>
+				<string>41 Third Avenue</string>
+				<key>phone</key>
+				<string>212-995-0109</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730395</string>
+				<key>longitude</key>
+				<string>-73.989246</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Bite</string>
+				<key>address</key>
+				<string>211 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-677-3123</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.733163</string>
+				<key>longitude</key>
+				<string>-73.986158</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Blue 9 Burger</string>
+				<key>address</key>
+				<string>92 Third Avenue</string>
+				<key>phone</key>
+				<string>212-979-0053</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732245</string>
+				<key>longitude</key>
+				<string>-73.988152</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Bravo Pizza</string>
+				<key>address</key>
+				<string>115 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-253-2220</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734076</string>
+				<key>longitude</key>
+				<string>-73.988993</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Bricklane Curry House</string>
+				<key>address</key>
+				<string>306-308 East Sixth Street</string>
+				<key>phone</key>
+				<string>212-979-2900</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727073</string>
+				<key>longitude</key>
+				<string>-73.988</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Bully&apos;s Deli</string>
+				<key>address</key>
+				<string>759 Broadway</string>
+				<key>phone</key>
+				<string>212-254-9755</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.73069</string>
+				<key>longitude</key>
+				<string>-73.992335</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Burger Creations</string>
+				<key>address</key>
+				<string>52 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-539-1909</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.73103</string>
+				<key>longitude</key>
+				<string>-73.993714</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Café Mocha</string>
+				<key>address</key>
+				<string>116 Second Avenue</string>
+				<key>phone</key>
+				<string>212-253-2050</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727731</string>
+				<key>longitude</key>
+				<string>-73.987842</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Café University</string>
+				<key>address</key>
+				<string>1 University Place</string>
+				<key>phone</key>
+				<string>212-995-0111</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730697</string>
+				<key>longitude</key>
+				<string>-73.995056</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Campus Eatery</string>
+				<key>address</key>
+				<string>31 West Fourth Street</string>
+				<key>phone</key>
+				<string>212-475-3607</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.72931</string>
+				<key>longitude</key>
+				<string>-73.995546</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>ChickPea</string>
+				<key>address</key>
+				<string>210 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-228-3445</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732996</string>
+				<key>longitude</key>
+				<string>-73.986688</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Chipotle</string>
+				<key>address</key>
+				<string>55 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-982-3081</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731501</string>
+				<key>longitude</key>
+				<string>-73.994486</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Chipotle</string>
+				<key>address</key>
+				<string>19 Saint Marks Place</string>
+				<key>phone</key>
+				<string>212-529-4502</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729251</string>
+				<key>longitude</key>
+				<string>-73.988583</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Cho Cho San</string>
+				<key>address</key>
+				<string>11 West Eighth Street</string>
+				<key>phone</key>
+				<string>212-473-3333</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732539</string>
+				<key>longitude</key>
+				<string>-73.996984</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>City Gourmet</string>
+				<key>address</key>
+				<string>238 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-260-6040</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732386</string>
+				<key>longitude</key>
+				<string>-73.985791</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Cosi</string>
+				<key>address</key>
+				<string>53 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-260-1507</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731508</string>
+				<key>longitude</key>
+				<string>-73.994504</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Cosi</string>
+				<key>address</key>
+				<string>841 Broadway</string>
+				<key>phone</key>
+				<string>212-614-8544</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734328</string>
+				<key>longitude</key>
+				<string>-73.990983</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Crumbs</string>
+				<key>address</key>
+				<string>37 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-673-1500</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731569</string>
+				<key>longitude</key>
+				<string>-73.994647</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>CulinArt/Dental</string>
+				<key>address</key>
+				<string>345 East Twenty-Fourth Street</string>
+				<key>phone</key>
+				<string>212-995-3088</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.725213</string>
+				<key>longitude</key>
+				<string>-73.987078</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>CulinArt/Law Golding Lounge</string>
+				<key>address</key>
+				<string>40 Washington Square South</string>
+				<key>phone</key>
+				<string></string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730538</string>
+				<key>longitude</key>
+				<string>-73.999482</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>CulinArt/Law Wachtell Lipton Café</string>
+				<key>address</key>
+				<string>251 Sullivan Street</string>
+				<key>phone</key>
+				<string></string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730508</string>
+				<key>longitude</key>
+				<string>-73.998982</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Dunkin Donuts</string>
+				<key>address</key>
+				<string>218 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-388-9992</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732814</string>
+				<key>longitude</key>
+				<string>-73.98641</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Eva&apos;s Restaurant</string>
+				<key>address</key>
+				<string>11 West Eighth Street</string>
+				<key>phone</key>
+				<string>212-677-3496</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732539</string>
+				<key>longitude</key>
+				<string>-73.996984</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Famous Famiglia</string>
+				<key>address</key>
+				<string>757 Broadway</string>
+				<key>phone</key>
+				<string>212-353-2900</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730594</string>
+				<key>longitude</key>
+				<string>-73.992414</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Five Guys Burgers and Fries</string>
+				<key>address</key>
+				<string>296 Bleecker Street</string>
+				<key>phone</key>
+				<string>212-367-9200</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732332</string>
+				<key>longitude</key>
+				<string>-74.003751</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Five Guys Burgers and Fries</string>
+				<key>address</key>
+				<string>496 LaGuardia Place</string>
+				<key>phone</key>
+				<string>212-228-6008</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727337</string>
+				<key>longitude</key>
+				<string>-73.999598</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Francesco&apos;s Pizzeria</string>
+				<key>address</key>
+				<string>140 West Fourth Street</string>
+				<key>phone</key>
+				<string>212-477-1161</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731321</string>
+				<key>longitude</key>
+				<string>-74.00025</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Friend&apos;s Café</string>
+				<key>address</key>
+				<string>27 Waverly Place</string>
+				<key>phone</key>
+				<string>212-253-9670</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730445</string>
+				<key>longitude</key>
+				<string>-73.994963</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Gramercy Star Café </string>
+				<key>address</key>
+				<string>23 Lexington Avenue</string>
+				<key>phone</key>
+				<string>212-505-3663</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.739548</string>
+				<key>longitude</key>
+				<string>-73.984421</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Grotta Azzurra</string>
+				<key>address</key>
+				<string>177 Mulberry Street</string>
+				<key>phone</key>
+				<string>212-925-8775</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.720343</string>
+				<key>longitude</key>
+				<string>-73.996977</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Hidden City Café</string>
+				<key>address</key>
+				<string>145 East Twenty-Third Street</string>
+				<key>phone</key>
+				<string>212-979-6161</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.7394</string>
+				<key>longitude</key>
+				<string>-73.984076</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Iggy&apos;s Pizzeria</string>
+				<key>address</key>
+				<string>173 First Avenue</string>
+				<key>phone</key>
+				<string>212-353-3331</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729264</string>
+				<key>longitude</key>
+				<string>-73.98441</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Insomnia Cookies</string>
+				<key>address</key>
+				<string></string>
+				<key>phone</key>
+				<string></string>
+				<key>website</key>
+				<string>http://insomniacookies.com</string>
+				<key>latitude</key>
+				<string></string>
+				<key>longitude</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Jamba Juice</string>
+				<key>address</key>
+				<string>125 University Place</string>
+				<key>phone</key>
+				<string>212-473-0232</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734733</string>
+				<key>longitude</key>
+				<string>-73.992095</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Java Works</string>
+				<key>address</key>
+				<string>721 Broadway</string>
+				<key>phone</key>
+				<string>212-677-3294</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729291</string>
+				<key>longitude</key>
+				<string>-73.993671</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>John&apos;s Italian Restaurant</string>
+				<key>address</key>
+				<string>302 East Twelfth Street</string>
+				<key>phone</key>
+				<string>212-475-9531</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730684</string>
+				<key>longitude</key>
+				<string>-73.985492</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Johnny Rockets</string>
+				<key>address</key>
+				<string>42 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-253-8175</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731293</string>
+				<key>longitude</key>
+				<string>-73.994075</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Juice Generation</string>
+				<key>address</key>
+				<string>171 West Fourth Street</string>
+				<key>phone</key>
+				<string>212-242-0440</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732338</string>
+				<key>longitude</key>
+				<string>-74.001591</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Lemast Deli</string>
+				<key>address</key>
+				<string>400 Broome Street</string>
+				<key>phone</key>
+				<string>212-965-8601</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.720835</string>
+				<key>longitude</key>
+				<string>-73.99734</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Lenny&apos;s</string>
+				<key>address</key>
+				<string>66 West Ninth Street</string>
+				<key>phone</key>
+				<string>212-353-0300</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734022</string>
+				<key>longitude</key>
+				<string>-73.998714</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>The Little Café </string>
+				<key>address</key>
+				<string>40 West Fourth Street</string>
+				<key>phone</key>
+				<string></string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729082</string>
+				<key>longitude</key>
+				<string>-73.996321</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Live Bait</string>
+				<key>address</key>
+				<string>14 East Twenty-Third Street</string>
+				<key>phone</key>
+				<string>212-353-2400</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.740879</string>
+				<key>longitude</key>
+				<string>-73.988313</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Luke&apos;s Lobster</string>
+				<key>address</key>
+				<string>93 East Seventh Street</string>
+				<key>phone</key>
+				<string>212-387-8487</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.726941</string>
+				<key>longitude</key>
+				<string>-73.985256</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Maoz Vegetarian</string>
+				<key>address</key>
+				<string>59 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-420-5999</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731048</string>
+				<key>longitude</key>
+				<string>-73.99322</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Marco Polo Café</string>
+				<key>address</key>
+				<string>102 Saint Marks Place</string>
+				<key>phone</key>
+				<string>212-228-8456</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727085</string>
+				<key>longitude</key>
+				<string>-73.98468</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Max Brenner</string>
+				<key>address</key>
+				<string>841 Broadway</string>
+				<key>phone</key>
+				<string>212-388-0030</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734328</string>
+				<key>longitude</key>
+				<string>-73.990983</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>McDonald&apos;s</string>
+				<key>address</key>
+				<string>27 Third Avenue</string>
+				<key>phone</key>
+				<string>212-533-6693</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729728</string>
+				<key>longitude</key>
+				<string>-73.98964</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>McDonald&apos;s</string>
+				<key>address</key>
+				<string>336 East Twenty-Third Street</string>
+				<key>phone</key>
+				<string>212-228-5529</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.737034</string>
+				<key>longitude</key>
+				<string>-73.979635</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>McDonald&apos;s</string>
+				<key>address</key>
+				<string>724 Broadway</string>
+				<key>phone</key>
+				<string>212-529-9660</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729162</string>
+				<key>longitude</key>
+				<string>-73.993392</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>McDonald&apos;s</string>
+				<key>address</key>
+				<string>39 Union Square West</string>
+				<key>phone</key>
+				<string>212-645-9079</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.737081</string>
+				<key>longitude</key>
+				<string>-73.990802</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>McDonald&apos;s</string>
+				<key>address</key>
+				<string>102-106 First Avenue</string>
+				<key>phone</key>
+				<string>212-477-9171</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.72664</string>
+				<key>longitude</key>
+				<string>-73.985981</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>McDonald&apos;s</string>
+				<key>address</key>
+				<string>208 Varick Street</string>
+				<key>phone</key>
+				<string>212-206-9991</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.728708</string>
+				<key>longitude</key>
+				<string>-74.005272</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Mom&apos;s Cooking</string>
+				<key>address</key>
+				<string>33 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-674-7687</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731584</string>
+				<key>longitude</key>
+				<string>-73.994683</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>New Amici</string>
+				<key>address</key>
+				<string>88 Third Avenue</string>
+				<key>phone</key>
+				<string>212-979-9686</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732198</string>
+				<key>longitude</key>
+				<string>-73.988299</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Newsbar</string>
+				<key>address</key>
+				<string>107 University Place</string>
+				<key>phone</key>
+				<string>212-353-1246</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734132</string>
+				<key>longitude</key>
+				<string>-73.99221</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>The Nutbox</string>
+				<key>address</key>
+				<string>49 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-677-7165</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731524</string>
+				<key>longitude</key>
+				<string>-73.99454</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>The Organic Grill</string>
+				<key>address</key>
+				<string>123 First Avenue</string>
+				<key>phone</key>
+				<string>212-477-7177</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727359</string>
+				<key>longitude</key>
+				<string>-73.985775</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Paradis to Go</string>
+				<key>address</key>
+				<string>114 Fourth Avenue</string>
+				<key>phone</key>
+				<string>646-416-6709</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732616</string>
+				<key>longitude</key>
+				<string>-73.990276</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Park Avenue Food Court</string>
+				<key>address</key>
+				<string>59 Fourth Avenue</string>
+				<key>phone</key>
+				<string>212-475-7032</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730713</string>
+				<key>longitude</key>
+				<string>-73.990355</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Pizza Mercato</string>
+				<key>address</key>
+				<string>11 Waverly Place</string>
+				<key>image_url</key>
+				<string>http://www.nyu.edu/nyucard/campus.cash/images/logos/vendor/sm.mercato.jpg</string>
+				<key>phone</key>
+				<string>212-420-8432</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730089</string>
+				<key>longitude</key>
+				<string>-73.994087</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Pluck U</string>
+				<key>address</key>
+				<string>230 Thompson Street</string>
+				<key>phone</key>
+				<string>212-505-2468</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729364</string>
+				<key>longitude</key>
+				<string>-73.998757</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Qdoba</string>
+				<key>address</key>
+				<string>184 Bleecker Street</string>
+				<key>phone</key>
+				<string>212-677-9015</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729112</string>
+				<key>longitude</key>
+				<string>-74.001101</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rockwell&apos;s Express</string>
+				<key>address</key>
+				<string>53 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-677-4400</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731508</string>
+				<key>longitude</key>
+				<string>-73.994504</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Space Market</string>
+				<key>address</key>
+				<string>1 University Place</string>
+				<key>phone</key>
+				<string>212-677-0044</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730697</string>
+				<key>longitude</key>
+				<string>-73.995056</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Spot Dessert Bar</string>
+				<key>address</key>
+				<string>13 Saint Marks Place</string>
+				<key>phone</key>
+				<string>212-677-5670</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729264</string>
+				<key>longitude</key>
+				<string>-73.989022</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Stand4</string>
+				<key>address</key>
+				<string>24 East Twelfth Street</string>
+				<key>phone</key>
+				<string>212-488-5900</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734024</string>
+				<key>longitude</key>
+				<string>-73.993269</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Subway</string>
+				<key>address</key>
+				<string>29 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-358-0286</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731599</string>
+				<key>longitude</key>
+				<string>-73.994719</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Subway</string>
+				<key>address</key>
+				<string>147 Third Avenue</string>
+				<key>phone</key>
+				<string>212-677-4881</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734028</string>
+				<key>longitude</key>
+				<string>-73.986224</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Subway</string>
+				<key>address</key>
+				<string>550 LaGuardia Place</string>
+				<key>phone</key>
+				<string>212-358-8100</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729098</string>
+				<key>longitude</key>
+				<string>-73.998269</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Sundaes &amp; Cones</string>
+				<key>address</key>
+				<string>95 East Tenth Street</string>
+				<key>phone</key>
+				<string>212-979-9398</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730871</string>
+				<key>longitude</key>
+				<string>-73.989369</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Think Coffee</string>
+				<key>address</key>
+				<string>726 Broadway/NYU Bookstore</string>
+				<key>phone</key>
+				<string></string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729365</string>
+				<key>longitude</key>
+				<string>-73.993318</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Vanessa&apos;s Dumplings</string>
+				<key>address</key>
+				<string>220 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-529-1329</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732796</string>
+				<key>longitude</key>
+				<string>-73.98631</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>The Village Trattoria</string>
+				<key>address</key>
+				<string>135 West Third Street</string>
+				<key>phone</key>
+				<string>212-598-0011</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730885</string>
+				<key>longitude</key>
+				<string>-74.000888</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Veniero&apos;s Pasticceria &amp; Caffe</string>
+				<key>address</key>
+				<string>342 East Eleventh Street</string>
+				<key>phone</key>
+				<string>212-674-7070</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729389</string>
+				<key>longitude</key>
+				<string>-73.98453</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Waverly Gourmet</string>
+				<key>address</key>
+				<string>19 Waverly Place</string>
+				<key>phone</key>
+				<string>212-928-3759</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730287</string>
+				<key>longitude</key>
+				<string>-73.994641</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>West 3rd Street Deli</string>
+				<key>address</key>
+				<string>78 West Third Street</string>
+				<key>phone</key>
+				<string>212-777-2269</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729582</string>
+				<key>longitude</key>
+				<string>-73.998846</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>wichcraft</string>
+				<key>address</key>
+				<string>60 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-780-0577</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730385</string>
+				<key>longitude</key>
+				<string>-73.993139</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Entertainment</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.entertainment</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>IFC Theatres</string>
+				<key>address</key>
+				<string>323 Avenue of the Americas</string>
+				<key>phone</key>
+				<string>212-924-7771</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731211</string>
+				<key>longitude</key>
+				<string>-74.001603</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Other Music</string>
+				<key>address</key>
+				<string>15 East Fourth Street</string>
+				<key>phone</key>
+				<string>212-477-8150</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.728117</string>
+				<key>longitude</key>
+				<string>-73.993439</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Laundry/Dry Cleaners</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.laundry</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>Aphrodite Cleaners</string>
+				<key>image_url</key>
+				<string>http://www.nyu.edu/nyucard/campus.cash/images/logos/vendor/1176406081.jpg</string>
+				<key>address</key>
+				<string>30 University Place</string>
+				<key>phone</key>
+				<string>212-475-4869</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731966</string>
+				<key>longitude</key>
+				<string>-73.994509</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Markets</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.market</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>D&apos;Agostino</string>
+				<key>address</key>
+				<string>64 University Place</string>
+				<key>phone</key>
+				<string>212-674-7101</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.733122</string>
+				<key>longitude</key>
+				<string>-73.993877</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>D&apos;Agostino</string>
+				<key>address</key>
+				<string>341 Third Avenue</string>
+				<key>phone</key>
+				<string>212-686-0619</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.740195</string>
+				<key>longitude</key>
+				<string>-73.981734</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>The Food Emporium</string>
+				<key>address</key>
+				<string>10 Union Square East</string>
+				<key>phone</key>
+				<string>212-353-3840</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734893</string>
+				<key>longitude</key>
+				<string>-73.989814</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Gristedes</string>
+				<key>address</key>
+				<string>246 Mercer Street</string>
+				<key>phone</key>
+				<string>212-777-9498</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727737</string>
+				<key>longitude</key>
+				<string>-73.995405</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Gristedes</string>
+				<key>address</key>
+				<string>90 Maiden Lane</string>
+				<key>phone</key>
+				<string>212-651-8255</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.706921</string>
+				<key>longitude</key>
+				<string>-74.00752</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Gristedes</string>
+				<key>address</key>
+				<string>25 University Place</string>
+				<key>phone</key>
+				<string>212-353-1330</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731742</string>
+				<key>longitude</key>
+				<string>-73.994646</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>JW Market</string>
+				<key>address</key>
+				<string>240 Sullivan Street</string>
+				<key>phone</key>
+				<string>212-228-9303</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729874</string>
+				<key>longitude</key>
+				<string>-73.999661</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Morton Williams Supermarket</string>
+				<key>address</key>
+				<string>130 Bleecker Street</string>
+				<key>phone</key>
+				<string>212-358-9597</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727725</string>
+				<key>longitude</key>
+				<string>-73.998326</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Whole Foods Market</string>
+				<key>address</key>
+				<string>4 Union Square South</string>
+				<key>phone</key>
+				<string>212-673-5388</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734661</string>
+				<key>longitude</key>
+				<string>-73.989758</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Pharmacies</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.pharmacy</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>CVS</string>
+				<key>address</key>
+				<string>158 Bleecker Street</string>
+				<key>phone</key>
+				<string>212-982-3111</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.728495</string>
+				<key>longitude</key>
+				<string>-73.999835</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>CVS</string>
+				<key>address</key>
+				<string>20 University Place</string>
+				<key>phone</key>
+				<string>212-260-3052</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732067</string>
+				<key>longitude</key>
+				<string>-73.995007</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Duane Reade</string>
+				<key>address</key>
+				<string>769 Broadway</string>
+				<key>phone</key>
+				<string>646-602-8274</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731167</string>
+				<key>longitude</key>
+				<string>-73.991943</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Whitney Chemists</string>
+				<key>address</key>
+				<string>50 University Place</string>
+				<key>phone</key>
+				<string>212-473-4166</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732519</string>
+				<key>longitude</key>
+				<string>-73.99408</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Retail</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.retail</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>Brickman 3rd Street Ace Hardware</string>
+				<key>address</key>
+				<string>125 West Third Street</string>
+				<key>phone</key>
+				<string>212-777-1500</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730863</string>
+				<key>longitude</key>
+				<string>-74.000492</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Broadway Panhandler</string>
+				<key>address</key>
+				<string>65 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-966-3434</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731463</string>
+				<key>longitude</key>
+				<string>-73.994396</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Kmart</string>
+				<key>address</key>
+				<string>770 Broadway</string>
+				<key>phone</key>
+				<string>212-673-1540</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730852</string>
+				<key>longitude</key>
+				<string>-73.991364</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>New University Pen and Stationery</string>
+				<key>address</key>
+				<string>144 Bleecker Street</string>
+				<key>phone</key>
+				<string>212-460-8700</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727985</string>
+				<key>longitude</key>
+				<string>-73.999396</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>News at 12</string>
+				<key>address</key>
+				<string>139 East Twelfth Street</string>
+				<key>phone</key>
+				<string>212-475-5160</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732235</string>
+				<key>longitude</key>
+				<string>-73.988428</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rickys</string>
+				<key>address</key>
+				<string>7 East Fourteenth Street</string>
+				<key>phone</key>
+				<string>212-691-7930</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.735856</string>
+				<key>longitude</key>
+				<string>-73.992513</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rickys</string>
+				<key>address</key>
+				<string>113 Third Avenue</string>
+				<key>phone</key>
+				<string>212-674-9640</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.732928</string>
+				<key>longitude</key>
+				<string>-73.98744</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rickys</string>
+				<key>address</key>
+				<string>375 Broadway</string>
+				<key>phone</key>
+				<string>212-925-5490</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.717859</string>
+				<key>longitude</key>
+				<string>-74.003217</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rickys</string>
+				<key>address</key>
+				<string>466 Sixth Avenue</string>
+				<key>phone</key>
+				<string>212-924-3401</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.735474</string>
+				<key>longitude</key>
+				<string>-73.998177</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rickys</string>
+				<key>address</key>
+				<string>44 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-254-5247</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731136</string>
+				<key>longitude</key>
+				<string>-73.994053</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Rickys</string>
+				<key>address</key>
+				<string>590 Broadway</string>
+				<key>phone</key>
+				<string>212-226-5552</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.725351</string>
+				<key>longitude</key>
+				<string>-73.996845</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Utrecht Art Supply</string>
+				<key>address</key>
+				<string>111 Fourth Avenue</string>
+				<key>phone</key>
+				<string>212-777-5353</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.73233</string>
+				<key>longitude</key>
+				<string>-73.98966</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Village Stationery</string>
+				<key>address</key>
+				<string>552 LaGuardia Place</string>
+				<key>phone</key>
+				<string>212-673-5555</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.729116</string>
+				<key>longitude</key>
+				<string>-73.998245</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Services</key>
+	<dict>
+		<key>annotation-image</key>
+		<string>campuscash.services</string>
+		<key>locations</key>
+		<array>
+			<dict>
+				<key>merchant_name</key>
+				<string>Dashing Diva</string>
+				<key>address</key>
+				<string>149 Third Avenue</string>
+				<key>phone</key>
+				<string>212-228-9999</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.73409</string>
+				<key>longitude</key>
+				<string>-73.986587</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Dashing Diva</string>
+				<key>address</key>
+				<string>41 East Eighth Street</string>
+				<key>phone</key>
+				<string>212-673-9000</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.731554</string>
+				<key>longitude</key>
+				<string>-73.994611</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Delivery.com</string>
+				<key>address</key>
+				<string></string>
+				<key>phone</key>
+				<string></string>
+				<key>website</key>
+				<string>http://delivery.com</string>
+				<key>latitude</key>
+				<string></string>
+				<key>longitude</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Forum Photo Digital</string>
+				<key>address</key>
+				<string>27 Waverly Place</string>
+				<key>phone</key>
+				<string>212-777-3098</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.730445</string>
+				<key>longitude</key>
+				<string>-73.994963</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Hattan Cleaners</string>
+				<key>address</key>
+				<string>141 Third Avenue</string>
+				<key>phone</key>
+				<string>212-477-1740</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.733875</string>
+				<key>longitude</key>
+				<string>-73.986752</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Lifestyle Salon NYC</string>
+				<key>address</key>
+				<string>822 Broadway</string>
+				<key>phone</key>
+				<string>212-228-5577</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.733108</string>
+				<key>longitude</key>
+				<string>-73.991114</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Lily&apos;s Eyebrow Threading Salon</string>
+				<key>address</key>
+				<string>35 West Eighth Street</string>
+				<key>phone</key>
+				<string>212-982-8678</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.733186</string>
+				<key>longitude</key>
+				<string>-73.998017</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Miguel Lopez Salon &amp; Spa</string>
+				<key>address</key>
+				<string>284 Lafayette Street</string>
+				<key>phone</key>
+				<string>212-343-2643</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.724252</string>
+				<key>longitude</key>
+				<string>-73.996161</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Quick Brows Zone</string>
+				<key>address</key>
+				<string>56 East Thirteenth Street</string>
+				<key>phone</key>
+				<string>212-254-9663</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.734026</string>
+				<key>longitude</key>
+				<string>-73.991643</string>
+			</dict>
+			<dict>
+				<key>merchant_name</key>
+				<string>Swing Hair Salon</string>
+				<key>address</key>
+				<string>280 East Tenth Street</string>
+				<key>phone</key>
+				<string>212-677-2008</string>
+				<key>website</key>
+				<string></string>
+				<key>latitude</key>
+				<string>40.727959</string>
+				<key>longitude</key>
+				<string>-73.983072</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

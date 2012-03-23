@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>College of Arts and Science</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Silver Center for Arts and Science</string>
+		<key>address</key>
+		<string>100 Washington Square East</string>
+		<key>latitude</key>
+		<string>40.730136</string>
+		<key>longitude</key>
+		<string>-73.996028</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>College of Nursing</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Kimball Hall</string>
+		<key>address</key>
+		<string>246 Greene Street</string>
+		<key>latitude</key>
+		<string>40.730056</string>
+		<key>longitude</key>
+		<string>-73.99504</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Gallatin School of Individualized Study</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>715 Broadway, 6th Floor</string>
+		<key>latitude</key>
+		<string>40.729161</string>
+		<key>longitude</key>
+		<string>-73.993719</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>School of Continuing and Professional Studies</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Center for Hospitality, Tourism, and Sports Management</string>
+		<key>address</key>
+		<string>10 Astor Place</string>
+		<key>latitude</key>
+		<string>40.729958</string>
+		<key>longitude</key>
+		<string>-73.992223</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>School of Social Work</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>1 Washington Square North</string>
+		<key>latitude</key>
+		<string>40.73082</string>
+		<key>longitude</key>
+		<string>-73.995667</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Steinhardt School of Education</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Pless Hall</string>
+		<key>address</key>
+		<string>82 Washington Square East</string>
+		<key>latitude</key>
+		<string>40.729982</string>
+		<key>longitude</key>
+		<string>-73.995903</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Stern School of Business</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Tisch Hall</string>
+		<key>address</key>
+		<string>40 West Fourth Street</string>
+		<key>latitude</key>
+		<string>40.728842</string>
+		<key>longitude</key>
+		<string>-73.996149</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Tisch School of the Arts</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>721 Broadway, 8th Floor</string>
+		<key>latitude</key>
+		<string>40.729291</string>
+		<key>longitude</key>
+		<string>-73.993671</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Graduate School of Arts and Science</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>1/2 Fifth Avenue</string>
+		<key>latitude</key>
+		<string>40.73198</string>
+		<key>longitude</key>
+		<string>-73.997017</string>
+		<key>telephone</key>
+		<string>212-998-8050</string>
+	</dict>
+	<key>School of Law</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Furman Hall</string>
+		<key>address</key>
+		<string>245 Sullivan Street</string>
+		<key>latitude</key>
+		<string>40.729987</string>
+		<key>longitude</key>
+		<string>-73.999391</string>
+		<key>telephone</key>
+		<string>212-998-6060</string>
+	</dict>
+	<key>Wagner Graduate School of Public Service</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>295 Lafayette Street</string>
+		<key>latitude</key>
+		<string>40.725047</string>
+		<key>longitude</key>
+		<string>-73.995763</string>
+		<key>telephone</key>
+		<string>212-998-7414</string>
+	</dict>
+	<key>College of Dentistry</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>345 East 24th Street</string>
+		<key>latitude</key>
+		<string>40.737758</string>
+		<key>longitude</key>
+		<string>-73.978493</string>
+		<key>telephone</key>
+		<string>212-998-9818</string>
+	</dict>
+	<key>School of Medicine</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>550 First Avenue</string>
+		<key>latitude</key>
+		<string>40.742858</string>
+		<key>longitude</key>
+		<string>-73.974234</string>
+		<key>telephone</key>
+		<string>212-263-5290</string>
+	</dict>
+	<key>Bobst Library</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>70 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.729649</string>
+		<key>longitude</key>
+		<string>-73.997018</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Coles Sports and Recreation Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>181 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.725828</string>
+		<key>longitude</key>
+		<string>-73.997576</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Office of Financial Aid</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>25 West Fourth Street</string>
+		<key>latitude</key>
+		<string>40.72886</string>
+		<key>longitude</key>
+		<string>-73.995565</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>General Studies Program</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>726 Broadway</string>
+		<key>latitude</key>
+		<string>40.729106</string>
+		<key>longitude</key>
+		<string>-73.992905</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>NYU Health Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>726 Broadway</string>
+		<key>latitude</key>
+		<string>40.729106</string>
+		<key>longitude</key>
+		<string>-73.992905</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Kimmel Center for University Life</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Skirball Center for the Performing Arts</string>
+		<key>address</key>
+		<string>60 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.730171</string>
+		<key>longitude</key>
+		<string>-73.997799</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>NYU Main Bookstore</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>18 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729671</string>
+		<key>longitude</key>
+		<string>-73.995694</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Undergraduate Admissions Processing Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>22 Washington Square North</string>
+		<key>latitude</key>
+		<string>40.731971</string>
+		<key>longitude</key>
+		<string>-73.997891</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Wasserman Center for Career Development</key>
+	<dict>
+		<key>subtitle</key>
+		<string>33 East 13th Street, 2nd Floor</string>
+		<key>address</key>
+		<string></string>
+		<key>latitude</key>
+		<string>40.734557</string>
+		<key>longitude</key>
+		<string>-73.992302</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Alumni Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>33 Third Avenue</string>
+		<key>latitude</key>
+		<string>40.730125</string>
+		<key>longitude</key>
+		<string>-73.989192</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Brittany Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>55 East 10th Street</string>
+		<key>latitude</key>
+		<string>40.731789</string>
+		<key>longitude</key>
+		<string>-73.991515</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Carlyle Court</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>25 Union Square West</string>
+		<key>latitude</key>
+		<string>40.736159</string>
+		<key>longitude</key>
+		<string>-73.991042</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Coral Towers</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>131 Third Avenue</string>
+		<key>latitude</key>
+		<string>40.733574</string>
+		<key>longitude</key>
+		<string>-73.986953</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Goddard Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>79 Washington Square East</string>
+		<key>latitude</key>
+		<string>40.729714</string>
+		<key>longitude</key>
+		<string>-73.996434</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Hayden Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>33 Washington Square West</string>
+		<key>latitude</key>
+		<string>40.731645</string>
+		<key>longitude</key>
+		<string>-73.999577</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Palladium Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>140 East 14th Street</string>
+		<key>latitude</key>
+		<string>40.733519</string>
+		<key>longitude</key>
+		<string>-73.988162</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Rubin Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>35 Fifth Avenue</string>
+		<key>latitude</key>
+		<string>40.733448</string>
+		<key>longitude</key>
+		<string>-73.995334</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Second Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>1 East Second Street</string>
+		<key>latitude</key>
+		<string>40.725428</string>
+		<key>longitude</key>
+		<string>-73.991969</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Seventh Street Residence </key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>40 East Seventh Street</string>
+		<key>latitude</key>
+		<string>40.728229</string>
+		<key>longitude</key>
+		<string>-73.988738</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Third Avenue North Residence Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>75 Third Avenue</string>
+		<key>latitude</key>
+		<string>40.731381</string>
+		<key>longitude</key>
+		<string>-73.988484</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Thirteenth Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>47 West 13th Street</string>
+		<key>latitude</key>
+		<string>40.736265</string>
+		<key>longitude</key>
+		<string>-73.996344</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>University Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>110 East 14th Street</string>
+		<key>latitude</key>
+		<string>40.734007</string>
+		<key>longitude</key>
+		<string>-73.988922</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Weinstein Center for Student Living</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>11 University Place</string>
+		<key>latitude</key>
+		<string>40.731158</string>
+		<key>longitude</key>
+		<string>-73.995137</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Broome Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>400 Broome Street</string>
+		<key>latitude</key>
+		<string>40.720835</string>
+		<key>longitude</key>
+		<string>-73.99734</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Cliff Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>15 Cliff Street</string>
+		<key>latitude</key>
+		<string>40.708435</string>
+		<key>longitude</key>
+		<string>-74.005658</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Greenwich Hotel</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>636 Greenwich Street</string>
+		<key>latitude</key>
+		<string>40.731304</string>
+		<key>longitude</key>
+		<string>-74.008232</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Lafayette Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>80 Lafayette Street</string>
+		<key>latitude</key>
+		<string>40.717079</string>
+		<key>longitude</key>
+		<string>-74.001718</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Twenty-sixth Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>334 East 26th Street</string>
+		<key>latitude</key>
+		<string>40.738889</string>
+		<key>longitude</key>
+		<string>-73.978005</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>University Court</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>334 East 25th Street</string>
+		<key>latitude</key>
+		<string>40.738433</string>
+		<key>longitude</key>
+		<string>-73.978393</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Water Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>200 Water Street</string>
+		<key>latitude</key>
+		<string>40.707057</string>
+		<key>longitude</key>
+		<string>-74.004687</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Guardian Thomas Corporation</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>63 East Ninth Street</string>
+		<key>latitude</key>
+		<string>40.731544</string>
+		<key>longitude</key>
+		<string>-73.992045</string>
+		<key>telephone</key>
+		<string>212-463-6000</string>
+	</dict>
+	<key>Brevoort Parking Corporation</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>12-20 East Ninth Street</string>
+		<key>latitude</key>
+		<string>40.732304</string>
+		<key>longitude</key>
+		<string>-73.994773</string>
+		<key>telephone</key>
+		<string>212-686-9800</string>
+	</dict>
+	<key>Washington Square Garage</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>2 Fifth Avenue</string>
+		<key>latitude</key>
+		<string>40.73198</string>
+		<key>longitude</key>
+		<string>-73.997017</string>
+		<key>telephone</key>
+		<string>212-533-8312</string>
+	</dict>
+	<key>Eighth Street Parking Corporation</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>11 Fifth Avenue</string>
+		<key>latitude</key>
+		<string>40.732659</string>
+		<key>longitude</key>
+		<string>-73.996018</string>
+		<key>telephone</key>
+		<string>212-475-9562</string>
+	</dict>
+	<key>Hillary Gardens Garage</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>300 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.730251</string>
+		<key>longitude</key>
+		<string>-73.993574</string>
+		<key>telephone</key>
+		<string>212-473-8752</string>
+	</dict>
+	<key>Minetta Lane Garage</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>122 West Third Street</string>
+		<key>latitude</key>
+		<string>40.730449</string>
+		<key>longitude</key>
+		<string>-74.000745</string>
+		<key>telephone</key>
+		<string>212-777-3530</string>
+	</dict>
+	<key>Thompson Street Garage</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>221 Thompson Street</string>
+		<key>latitude</key>
+		<string>40.729372</string>
+		<key>longitude</key>
+		<string>-73.999217</string>
+		<key>telephone</key>
+		<string>212-677-8741</string>
+	</dict>
+	<key>Washington Square Village Garage </key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>1 Washington Square Village</string>
+		<key>latitude</key>
+		<string>40.72873</string>
+		<key>longitude</key>
+		<string>-73.997329</string>
+		<key>telephone</key>
+		<string>212-473-8752</string>
+	</dict>
+	<key>113 University Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>113 University Place</string>
+		<key>latitude</key>
+		<string>40.734274</string>
+		<key>longitude</key>
+		<string>-73.992077</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>838 Broadway</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>838 Broadway</string>
+		<key>latitude</key>
+		<string>40.733713</string>
+		<key>longitude</key>
+		<string>-73.990977</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>7 East 12th Street</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>7 East 12th Street</string>
+		<key>latitude</key>
+		<string>40.734389</string>
+		<key>longitude</key>
+		<string>-73.993746</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Casa Italiana Zerilli-Marimo</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>24 West 12th Street</string>
+		<key>latitude</key>
+		<string>40.73493</string>
+		<key>longitude</key>
+		<string>-73.99589</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Bronfman Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>7 East 10th Street</string>
+		<key>latitude</key>
+		<string>40.733298</string>
+		<key>longitude</key>
+		<string>-73.994644</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Lillian Vernon Center for International Affairs</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>58 West 10th Street</string>
+		<key>latitude</key>
+		<string>40.734285</string>
+		<key>longitude</key>
+		<string>-73.997942</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Barney Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>34 Stuyvesant Street</string>
+		<key>latitude</key>
+		<string>40.72981</string>
+		<key>longitude</key>
+		<string>-73.987959</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>19 University Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>19 University Place</string>
+		<key>latitude</key>
+		<string>40.731538</string>
+		<key>longitude</key>
+		<string>-73.9948</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Cantor Film Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>36 East Eighth Street</string>
+		<key>latitude</key>
+		<string>40.731163</string>
+		<key>longitude</key>
+		<string>-73.994444</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Deutsches Haus</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>42 Washington Mews</string>
+		<key>latitude</key>
+		<string>40.73146</string>
+		<key>longitude</key>
+		<string>-73.995679</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Glucksman Ireland House</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>1 Washington Mews</string>
+		<key>latitude</key>
+		<string>40.731726</string>
+		<key>longitude</key>
+		<string>-73.996503</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Institute of French Studies</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>15 Washington Mews</string>
+		<key>latitude</key>
+		<string>40.731292</string>
+		<key>longitude</key>
+		<string>-73.995349</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>La Maison Française</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>16 Washington Mews</string>
+		<key>latitude</key>
+		<string>40.731306</string>
+		<key>longitude</key>
+		<string>-73.995319</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>One-half Fifth Avenue</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>One-half Fifth Avenue</string>
+		<key>latitude</key>
+		<string>42.848975</string>
+		<key>longitude</key>
+		<string>-106.392642</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Rufus D. Smith Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>25 Waverly Place</string>
+		<key>latitude</key>
+		<string>40.730589</string>
+		<key>longitude</key>
+		<string>-73.994777</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>111, 113A Second Avenue</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>111, 113A Second Avenue</string>
+		<key>latitude</key>
+		<string>40.727814</string>
+		<key>longitude</key>
+		<string>-73.988251</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Waverly Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>24 Waverly Place</string>
+		<key>latitude</key>
+		<string>40.730283</string>
+		<key>longitude</key>
+		<string>-73.995138</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Brown Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>29 Washington Place/ 245 Greene Street</string>
+		<key>latitude</key>
+		<string>40.729945</string>
+		<key>longitude</key>
+		<string>-73.995613</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Torch Club</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>18 Waverly Place</string>
+		<key>latitude</key>
+		<string>40.730028</string>
+		<key>longitude</key>
+		<string>-73.994684</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Reprographic Services</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>14 Waverly Place</string>
+		<key>latitude</key>
+		<string>40.730133</string>
+		<key>longitude</key>
+		<string>-73.994414</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>285 Mercer Street</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>285 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.728592</string>
+		<key>longitude</key>
+		<string>-73.995266</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>719 Broadway</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>719 Broadway</string>
+		<key>latitude</key>
+		<string>40.729373</string>
+		<key>longitude</key>
+		<string>-73.993446</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>1 Washington Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>1 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729085</string>
+		<key>longitude</key>
+		<string>-73.993848</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>3 Washington Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>3 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729217</string>
+		<key>longitude</key>
+		<string>-73.994123</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>5 Washington Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>5 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729397</string>
+		<key>longitude</key>
+		<string>-73.994486</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>411 Lafayette Street</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>411 Lafayette Street</string>
+		<key>latitude</key>
+		<string>40.728559</string>
+		<key>longitude</key>
+		<string>-73.992472</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>48 Cooper Square</key>
+	<dict>
+		<key>location</key>
+		<string>48 Cooper Square</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>48 Cooper Square</string>
+		<key>latitude</key>
+		<string>40.728773</string>
+		<key>longitude</key>
+		<string>-73.991102</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>East Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>239 Greene Street</string>
+		<key>latitude</key>
+		<string>40.729488</string>
+		<key>longitude</key>
+		<string>-73.995565</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Education Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>35 West Fourth Street</string>
+		<key>latitude</key>
+		<string>40.729393</string>
+		<key>longitude</key>
+		<string>-73.996136</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Faye’s @ the Square</key>
+	<dict>
+		<key>subtitle</key>
+		<string>Starbucks</string>
+		<key>address</key>
+		<string>45 West Fourth Street</string>
+		<key>latitude</key>
+		<string>40.729365</string>
+		<key>longitude</key>
+		<string>-73.996105</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Moses Center for Students with Disabilities</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>240 Greene Street</string>
+		<key>latitude</key>
+		<string>40.729589</string>
+		<key>longitude</key>
+		<string>-73.995431</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>242 Greene Street</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>242 Greene Street</string>
+		<key>latitude</key>
+		<string>40.729707</string>
+		<key>longitude</key>
+		<string>-73.995332</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>14, 14A Washington Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>14, 14A Washington Place</string>
+		<key>latitude</key>
+		<string>40.729683</string>
+		<key>longitude</key>
+		<string>-73.995154</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Carter Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>10 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729331</string>
+		<key>longitude</key>
+		<string>-73.995006</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>8 Washington Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>8 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729157</string>
+		<key>longitude</key>
+		<string>-73.995012</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>269 Mercer Street</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>269 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.728348</string>
+		<key>longitude</key>
+		<string>-73.995476</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>4 Washington Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>4 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729092</string>
+		<key>longitude</key>
+		<string>-73.994046</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Psychology Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>6 Washington Place</string>
+		<key>latitude</key>
+		<string>40.729047</string>
+		<key>longitude</key>
+		<string>-73.994164</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Provincetown Playhouse</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>133 MacDougal Street</string>
+		<key>latitude</key>
+		<string>40.730688</string>
+		<key>longitude</key>
+		<string>-73.999908</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Lawyering Program</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>137 MacDougal Street</string>
+		<key>latitude</key>
+		<string>40.730756</string>
+		<key>longitude</key>
+		<string>-73.999848</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Vanderbilt Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>40 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.730521</string>
+		<key>longitude</key>
+		<string>-73.999509</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Kevorkian Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>50 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.730466</string>
+		<key>longitude</key>
+		<string>-73.998399</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Skirball Department</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>53 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.73044</string>
+		<key>longitude</key>
+		<string>-73.998422</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>King Juan Carlos I Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>53 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.73044</string>
+		<key>longitude</key>
+		<string>-73.998422</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Catholic Center at NYU</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>58 Washington Square South</string>
+		<key>latitude</key>
+		<string>40.730257,-73.997981</string>
+		<key>longitude</key>
+		<string></string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Schwartz Plaza</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>Schwartz Plaza</string>
+		<key>latitude</key>
+		<string>40.729373</string>
+		<key>longitude</key>
+		<string>-73.996739</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Shimkin Hall</key>
+	<dict>
+		<key>subtitle</key>
+		<string>NYU Information Center</string>
+		<key>address</key>
+		<string>50 West Fourth Street</string>
+		<key>latitude</key>
+		<string>40.729375</string>
+		<key>longitude</key>
+		<string>-73.996198</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Gould Plaza</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>Gould Plaza</string>
+		<key>latitude</key>
+		<string>40.728987</string>
+		<key>longitude</key>
+		<string>-73.995967</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Courant Institute</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>251 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.728771</string>
+		<key>longitude</key>
+		<string>-73.995752</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>New item - 108</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>110 West Third Street</string>
+		<key>latitude</key>
+		<string>40.730415</string>
+		<key>longitude</key>
+		<string>-74.000139</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>561 Laguardia Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>561 Laguardia Place</string>
+		<key>latitude</key>
+		<string>40.729161</string>
+		<key>longitude</key>
+		<string>-73.997989</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Mercer Street Residence</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>240 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.727727</string>
+		<key>longitude</key>
+		<string>-73.995948</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Wolfe Center</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>551 Laguardia Place</string>
+		<key>latitude</key>
+		<string>40.728871</string>
+		<key>longitude</key>
+		<string>-73.998239</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>530 Laguardia Place</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>530 Laguardia Place</string>
+		<key>latitude</key>
+		<string>40.728535</string>
+		<key>longitude</key>
+		<string>-73.998578</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Off-Campus Housing</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>4 Washington Square Village</string>
+		<key>latitude</key>
+		<string>40.727421</string>
+		<key>longitude</key>
+		<string>-73.997169</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Silver Towers</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>110 Bleecker Street</string>
+		<key>latitude</key>
+		<string>40.72695</string>
+		<key>longitude</key>
+		<string>-73.998542</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>194 Mercer Street</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>194 Mercer Street</string>
+		<key>latitude</key>
+		<string>40.725624</string>
+		<key>longitude</key>
+		<string>-73.997712</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Butterick Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>161 Sixth Avenue</string>
+		<key>latitude</key>
+		<string>40.725899</string>
+		<key>longitude</key>
+		<string>-74.004299</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+	<key>Woolworth Building</key>
+	<dict>
+		<key>subtitle</key>
+		<string></string>
+		<key>address</key>
+		<string>15 Barclay Street</string>
+		<key>latitude</key>
+		<string>40.71226</string>
+		<key>longitude</key>
+		<string>-74.008587</string>
+		<key>telephone</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
