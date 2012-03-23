@@ -1,6 +1,7 @@
 NYU WSN iPhone App
 ---
-*This application is deprecated, it should only be used for reference. It was made when I was learning iOS. Developed during iPhone 2.0/3.0 SDK.*
+*This application is deprecated, it should only be used for reference. It was made when I was learning iOS. 
+Developed during iPhone 2.0/3.0 SDK. It does not use xibs, instead views are generated programatically.*
 
 
 **Necessary Frameworks**
